@@ -35,4 +35,4 @@ Either detection method returning true is treated as a positive detection.
 ## Sources 
 
 - https://github.com/x64dbg/ScyllaHide
-- https://learn.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntqueryinformationprocess]
+- https://learn.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntqueryinformationprocess
