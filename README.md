@@ -29,7 +29,7 @@ Either detection method returning true is treated as a positive detection.
 ## Notes/warnings
 
 - x64 windows and apps only, might release x86 version later if I feel like it.
-- Tested with latest scyllahide release, could break in the future.
+- Tested with latest scyllahide release
 - Educational and software protection ONLY
 
 ## Sources 
