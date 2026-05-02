@@ -6,7 +6,6 @@ static bool IsOriginalSyscallStub(const std::uint8_t* addr) noexcept {
     if (!addr)
         return false;
     /*
-        Quick summary, all x64 syscall stubs in ntdll.dll start with
         4c 8B D1       mov r10, rcx
         B8 XX XX XX mov eax, SYSCALL_INDEX
     */
